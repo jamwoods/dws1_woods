@@ -16,6 +16,12 @@ h3{
    color: #f99903;
    text-align: left;
 }
+
+a:hover {
+   color:#bc0411;	
+   }
+   
+   
 //**a {
 	border: 2px solid deeppink;
 	width:240
