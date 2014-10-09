@@ -30,11 +30,11 @@ ul{
   list-style:outside circle;		
   }	
   
-  #container1 {
-  border: 2 px solid #bc0411;
-  background-color #fce6ac;
+  container1 {
+  border: 2px;
+  background-color: #fce6ac;
   padding: 5px;
-  }
+}
   
   
 a:visited {
