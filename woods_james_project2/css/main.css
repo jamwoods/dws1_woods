@@ -4,10 +4,17 @@ h1{
    font-family: Serif;
    font-size: 28px;
    font-style: italic;
-   color: #FF0000;
+   color: #bc0411;
    text-align: center;
 }
 
+h3{
+   font-family: Times New Roman;
+   font-size: 28px;
+   font-style: italic;
+   color: #f99903;
+   text-align: left;
+}
 a {
 	border: 2px solid deeppink;
 	width:240
