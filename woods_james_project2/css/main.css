@@ -1,4 +1,12 @@
 
+
+ #mainbody
+{
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h1{
 
    font-style: italic;
