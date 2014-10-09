@@ -61,7 +61,7 @@ a:active {
    color:#df03f9;	
    }
    
-   .image {
+   a.image {
 	border: 2px solid black;
 	width:240px;
 	height:155px;
