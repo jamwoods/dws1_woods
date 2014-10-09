@@ -5,7 +5,10 @@ h1{
    font-family: serif;
    background-color: #9b9996;
    color: #bc0411;
+   height: 75%;
+   width: 75%;
    text-align: center;
+   
 }
 
 h3{
@@ -18,7 +21,7 @@ h3{
 }
 
 ul{
-  list-style:outside circle;
+  list-style:outside circle;		
   }	
   
 a:visited {
