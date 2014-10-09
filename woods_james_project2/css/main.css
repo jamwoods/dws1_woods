@@ -53,6 +53,12 @@ a:hover {
    color:#bc0411;
    }
    
+.image:link {
+color:maroon;
+text-decoration:none;
+}
+
+
 .image:hover{
 color:yellow;
 }
