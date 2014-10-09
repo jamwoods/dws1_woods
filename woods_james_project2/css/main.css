@@ -7,10 +7,11 @@
   margin-right: auto;
 }
 
-container1 {
+.container {
     border: 2px solid;
     border-radius: 25px;
 }
+
 h1{
 
    font-style: italic;
