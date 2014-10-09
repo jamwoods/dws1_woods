@@ -57,10 +57,10 @@ a:active {
    color:#df03f9;	
    }
    
-   *a {
-	border: 2px solid deeppink;
-	width:240
-	height:150
-	dislay: block;
+   a {
+	border: 2px black;
+	width:240px;
+	height:150px;
+	display: block;
 }
 	 
