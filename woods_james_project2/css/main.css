@@ -32,10 +32,21 @@ ul{
   
   #container1 {
   border: 2px;
-  background-color: #fce6ac;
+  background-color: #fff0c8;
   padding: 2px;
 }
   
+    #container2 {
+  border: 2px;
+  background-color: #fff0c8;
+  padding: 2px;
+}
+
+  #container3 {
+  border: 2px;
+  background-color: #fff0c8;
+  padding: 2px;
+}
   
 a:visited {
    color:black;	
