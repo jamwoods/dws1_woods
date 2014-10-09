@@ -30,6 +30,13 @@ ul{
   list-style:outside circle;		
   }	
   
+  #container1 {
+  border: 1 px solid #bc0411;
+  background-color #efefef;
+  padding: 10pc;
+  }
+  
+  
 a:visited {
    color:black;	
    }
