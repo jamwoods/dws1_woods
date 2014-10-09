@@ -5,8 +5,6 @@ h1{
    font-family: serif;
    background-color: #9b9996;
    color: #bc0411;
-   height: 75%;
-   width: 75%;
    text-align: center;
    
 }
@@ -15,8 +13,11 @@ h3{
    font-style: italic;
    font-weight: medium;
    font-size: 24px;
-   font-family: Times New Roman,Georgia, serif;   
+   font-family: Times New Roman,Georgia, serif;
+   background-color: #9b9996;   
    color: #f99903;
+   height: 75%;
+   width: 75%;
    text-align: left;
 }
 
