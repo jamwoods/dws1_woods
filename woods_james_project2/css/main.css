@@ -51,18 +51,16 @@ a:visited {
    
 a:hover {
    color:#bc0411;
-   dislay: block;	
    }
    
 a:active {
    color:#df03f9;	
    }
    
-   
-//**a {
+   *a {
 	border: 2px solid deeppink;
 	width:240
 	height:150
 	dislay: block;
-}**//
+}
 	 
