@@ -25,6 +25,9 @@ a:hover {
    color:#bc0411;	
    }
    
+a:active {
+   color:#df03f9;	
+   }
    
 //**a {
 	border: 2px solid deeppink;
