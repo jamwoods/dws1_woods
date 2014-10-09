@@ -18,7 +18,7 @@ h1{
    font-size: 32px;
    border-width: 4px;
    border-color:#bc0411;
-   font-family: serif;
+   font-family: Poiret One;
    text-shadow: 2px 2px #000000;
    background-color: #9b9996;
    color: #bc0411;
@@ -27,7 +27,7 @@ h1{
 }
 
 p{
-   font-family: Poiret One; 
+   font-family: imes New Roman,Georgia, serif; 
 }
 
 
@@ -35,7 +35,7 @@ h3{
    font-style: italic;
    font-weight: 600;
    font-size: 24px;
-   font-family: Times New Roman,Georgia, serif;
+   font-family: Poiret One,Times New Roman,Georgia, serif;
    background-color: #e9e8e9;   
    color: #f99903;
    width: 18%;
