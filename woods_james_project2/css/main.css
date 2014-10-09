@@ -53,15 +53,12 @@ a:hover {
    color:#bc0411;
    }
    
-image:link {
-color:maroon;
-text-decoration:none;
-}
-
-
-image:hover{
-color:yellow;
-}
+img { 
+  border: 3px solid white; 
+} 
+img:hover { 
+  border: 3px solid black; 
+} 
 
 a:active {
    color:#df03f9;	
