@@ -58,9 +58,6 @@ a:active {
    }
    
    a {
-	border: 2px solid black;
-	width:240px;
-	height:155px;
 	display: block;
 }
 	 
