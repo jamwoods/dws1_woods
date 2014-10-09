@@ -50,7 +50,8 @@ a:visited {
    }
    
 a:hover {
-   color:#bc0411;	
+   color:#bc0411;
+   dislay: block;	
    }
    
 a:active {
