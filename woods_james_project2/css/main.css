@@ -1,12 +1,14 @@
 
 h1{
-	border-width: 10px;
+
    font-style: italic;
    font-size: 30px;
+   border-width: 4px solid black;
    font-family: serif;
    background-color: #9b9996;
    color: #bc0411;
    text-align: center;
+   
     
    
 }
