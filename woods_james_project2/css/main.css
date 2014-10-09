@@ -58,7 +58,7 @@ a:active {
    }
    
    a {
-	border: 2px black;
+	border: 2px #fef6e0;
 	width:240px;
 	height:150px;
 	display: block;
