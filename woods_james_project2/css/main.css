@@ -44,6 +44,7 @@ ul{
   background-color: #fef6e0;
   padding: 2px 20px;
 }
+/***Link Styling***/
   
 a:visited {
    color:#000000;	
@@ -53,6 +54,10 @@ a:hover {
    color:#bc0411;
    }
    
+a:active {
+   color:#01d106;
+   }
+
 img { 
   border: 3px #ffffff; 
 } 
