@@ -31,21 +31,18 @@ ul{
   }	
   
   #container1 {
-  border: 2px;
   background-color: #fef6e0;
-  padding: 5px 20px;
+  padding: 2px 20px;
 }
   
     #container2 {
-  border: 2px;
   background-color: #fef6e0;
-  padding: 5px 20px;
+  padding: 2px 20px;
 }
 
   #container3 {
-  border: 2px;
   background-color: #fef6e0;
-  padding: 5px 20px;
+  padding: 2px 20px;
 }
   
 a:visited {
