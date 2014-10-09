@@ -3,13 +3,11 @@ h1{
 
    font-style: italic;
    font-size: 30px;
-   border-width: 4px solid black;
+   border-width: 4px;
    font-family: serif;
    background-color: #9b9996;
    color: #bc0411;
    text-align: center;
-   
-    
    
 }
 
