@@ -2,11 +2,15 @@
 
  #mainbody
 {
-  width: 75em;
+  width: 80em;
   margin-left: auto;
   margin-right: auto;
 }
 
+div {
+    border: 2px solid;
+    border-radius: 25px;
+}
 h1{
 
    font-style: italic;
