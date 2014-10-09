@@ -17,6 +17,10 @@ h3{
    text-align: left;
 }
 
+a:visited {
+   color:black;	
+   }
+   
 a:hover {
    color:#bc0411;	
    }
