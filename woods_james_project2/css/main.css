@@ -53,11 +53,18 @@ a:hover {
    color:#bc0411;
    }
    
+.image:hover{
+color:yellow;
+}
+
 a:active {
    color:#df03f9;	
    }
    
    a {
+	border: 2px solid black;
+	width:240px;
+	height:155px;
 	display: block;
 }
 	 
