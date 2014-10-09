@@ -44,19 +44,12 @@ ul{
   list-style:outside circle;		
   }	
   
-  #container1 {
+  .container {
   background-color: #fef6e0;
   padding: 2px 20px;
 }
   
-    #container2 {
-  background-color: #fef6e0;
-  padding: 2px 20px;
-}
-
-  #container3 {
-  background-color: #fef6e0;
-  padding: 2px 20px;
+ 
 }
 /***********************Link Styling***********************/
   
