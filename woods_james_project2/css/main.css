@@ -48,6 +48,7 @@ h3{
 p{
    font-family: imes New Roman,Georgia, serif;
    padding: 2px; 
+   margin:30px;
 }
 
 ul{
@@ -61,7 +62,7 @@ ul{
   
   li{
    Font-weight: bold;
-   font-size: 20px;
+   font-size: 18px;
 }
   .container {
   background-color: #fef6e0;
