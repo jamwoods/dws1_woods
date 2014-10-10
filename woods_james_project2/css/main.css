@@ -61,8 +61,8 @@ ul{
   }	
   
   li{
-   Font-style: strong;
-   font-size: 2opx;
+   Font-weight: bold;
+   font-size: 20px;
 }
   .container {
   background-color: #fef6e0;
