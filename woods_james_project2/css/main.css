@@ -47,7 +47,8 @@ h3{
 
 /***********************Content***********************/
 p{
-   font-family: imes New Roman,Georgia, serif; 
+   font-family: imes New Roman,Georgia, serif;
+   padding: 5px; 
 }
 
 ul{
