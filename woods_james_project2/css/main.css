@@ -34,7 +34,7 @@ p{
 
 h3{
    font-style: italic;
-   font-weight: 600;
+   font-weight: 800;
    font-size: 24px;
    border: 2px solid;
    border-radius: 25px;
@@ -42,9 +42,9 @@ h3{
    font-family: Poiret One,Times New Roman,Georgia, serif;
    background-color: #e9e8e9;   
    color: #f99903;
-   width: 18%;
+   width: 110em;
    text-align: left;
-   border-width: 10px;
+
 }
 
 ul{
