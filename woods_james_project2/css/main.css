@@ -68,12 +68,10 @@ ul{
     box-shadow: 10px 10px 5px #888888;
 }
 
- 
-}
 /***********************Link Styling***********************/
   
 a:link    {
-    color: green;
+    color: #0c11f8;
 }
 
 a:visited {
@@ -97,12 +95,10 @@ img:hover {
 
 img {
     opacity: 0.4;
-    filter: alpha(opacity=40); /* For IE8 and earlier */
 }
 
 img:hover {
     opacity: 1.0;
-    filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
 img { 
