@@ -101,8 +101,9 @@ img:hover {
     opacity: 1.0;
 }
 
-   
-    .image{
+   /**Need to figure out how to apply anchor border only to images
+   **/
+    .image{ /**if image is replaced with a image border will work**/
 	border: 2px solid;
 	width:240px;
 	height:155px;
