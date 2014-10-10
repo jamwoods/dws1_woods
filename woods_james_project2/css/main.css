@@ -101,12 +101,6 @@ img:hover {
     opacity: 1.0;
 }
 
-img { 
-  border: 3px #ffffff; 
-} 
-img:hover { 
-  border: 3px #010100; 
-} 
    
     .image{
 	border: 2px solid;
