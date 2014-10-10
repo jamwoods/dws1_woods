@@ -17,7 +17,6 @@ h1{
    font-style: italic;
    font-size: 32px;
    border-width: 4px;
-   border: 2px solid;
    border-radius: 25px;
    border-color:#bc0411;
    font-family: Poiret One;
@@ -37,6 +36,7 @@ h3{
    font-style: italic;
    font-weight: 600;
    font-size: 24px;
+   border: 2px solid;
    border-radius: 25px;
    border-color:#bc0411;
    font-family: Poiret One,Times New Roman,Georgia, serif;
