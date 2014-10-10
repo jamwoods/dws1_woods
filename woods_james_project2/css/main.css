@@ -1,5 +1,5 @@
 
-
+/***********************Global Styling***********************/
  #mainbody
 {
   width: 80em;
@@ -7,13 +7,8 @@
   margin-right: auto;
 }
 
-.container {
-    border: 2px solid;
-    border-radius: 25px;
-     box-shadow: 10px 10px 5px #888888;
-}
-
 /***********************Headings***********************/
+
 h1{
 
    font-style: italic;
@@ -54,21 +49,25 @@ p{
 ul{
    border-width: 4px;
    border-radius: 25px;
-   background-color: #fbab00;
+   background-color: #f9b31b;
    width: 10em;
    box-shadow: 15px 15px 10px #888888;
-  list-style:outside circle;		
+   list-style:outside circle;		
   }	
   
   li{
    Font-weight: bold;
    font-size: 18px;
 }
-  .container {
-  background-color: #fef6e0;
-  padding: 2px 20px;
-}
   
+  .container {
+    background-color: #fef6e0;
+    padding: 2px 20px;
+    border: 2px solid;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
  
 }
 /***********************Link Styling***********************/
