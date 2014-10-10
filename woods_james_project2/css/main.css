@@ -37,6 +37,8 @@ h3{
    font-style: italic;
    font-weight: 600;
    font-size: 24px;
+   border-radius: 25px;
+   border-color:#bc0411;
    font-family: Poiret One,Times New Roman,Georgia, serif;
    background-color: #e9e8e9;   
    color: #f99903;
