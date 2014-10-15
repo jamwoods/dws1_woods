@@ -121,7 +121,9 @@ clear: right;
 	border-radius: 25px;
 	float:left;
 	margin:5px;
+background-color: #fdefcd;
 }	
+
 
 .clear{
 clear: left;
