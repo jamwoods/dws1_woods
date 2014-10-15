@@ -40,6 +40,11 @@ h3{
 }
 
 /***********************Content***********************
+p{
+   font-family: imes New Roman,Georgia, serif;
+   padding: 2px;
+   margin:10px;
+}
 
 ul{
    border-width: 4px;
@@ -47,15 +52,21 @@ ul{
    background-color: #fdc54c;
    width: 10em;
    box-shadow: 15px 15px 10px #888888;
-   list-style:outside circle;		
+   list-style:outside circle;	
 }	
-  
+
 li{
    Font-weight: bold;
-   font-size: 18px;
+   Font-size: 18px;
 }
-  
 
+.container {
+   background-color: #fef6e0;
+   padding: 2px 20px;
+   border: 2px solid;
+   border-radius: 25px;
+   box-shadow: 10px 10px 5px #888888;
+}
 
 /***********************Link Styling***********************/
   
