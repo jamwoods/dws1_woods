@@ -99,8 +99,6 @@ img:hover {
     opacity: 1.0;
 }
 
-   /**Need to figure out how to apply anchor border only to images
-   **/
     .image-link{ 
 	border: 2px solid;
 	width:240px;
@@ -108,3 +106,10 @@ img:hover {
 	display: block;
 }
 	 
+#images{
+float:right;
+width:155 px;
+margin:5px;
+padding:5px
+background-color: #efefef;
+}
