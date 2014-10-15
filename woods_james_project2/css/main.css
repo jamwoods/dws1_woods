@@ -56,14 +56,15 @@ ul{
 }
   
   .container {
+    font-family: Georgia,Times New Roman, serif;
+    line-height:120%;
     background-color: #fef6e0;
     padding: 2px 20px;
     border: 2px solid;
     border-radius: 25px;
     box-shadow: 10px 10px 5px #888888;
-    line-height:120%;
+    line-height:110%;
 }
-
 
 
 
