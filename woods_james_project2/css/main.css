@@ -107,13 +107,14 @@ img:hover {
 }
 	 
 #images{
-  border-width: 4px;
-   border-radius: 25px;
+border: 2px solid;
+border-width: 4px;
+border-radius: 25px;
 float:right;
 width:155 px;
 margin:5px;
 padding:5px
-background-color: #efefef;
+background-color: #fbdd94;
 }	
 
 .clear{
