@@ -16,7 +16,7 @@ h1{
    font-size: 40px;
    border-width: 4px;
    border-radius: 25px;
-   font-family: Poiret One;
+   font-family: Poiret One,Times New Roman,Georgia, serif;
    text-shadow: 2px 2px #000000;
    background-color: #9b9996;
    color: #bc0411;
@@ -65,8 +65,6 @@ ul{
     box-shadow: 10px 10px 5px #888888;
     line-height:110%;
 }
-
-
 
 /***********************Link Styling***********************/
   
