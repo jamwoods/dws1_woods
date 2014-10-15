@@ -107,8 +107,6 @@ img:hover {
 }
 	 
 #images{
-	border: 2px solid;
-	border-width: 1px;
 	border-radius: 25px;
 	float:right;
 	margin:5px;
