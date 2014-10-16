@@ -34,7 +34,7 @@ h3{
    border-color:#000000;
    font-family: Poiret One,Times New Roman,Georgia, serif;  
    color: #f99903;
-   width: 10em;
+   width: 12em;
    text-align: right;
 }
 
@@ -73,12 +73,12 @@ padding: 8px;
 
 #L{
 background: #e3dfdf url("../images/engine_icon.png") no-repeat;
-height: 40px;
+height: 70px;
 }
 
 #S{
 background: #e3dfdf url("../images/chair_icon.png") no-repeat;
-height: 40px;
+height: 70px;
 }
 /***********************Link Styling***********************/
   
