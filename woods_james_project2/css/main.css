@@ -71,6 +71,7 @@ ul{
 background-image: url("../images/car_icon.png");
 background-repeat: no-repeat;
 height: 100px;
+padding: 8px 0 0 60 px
 background-position: left top;
 }
 /***********************Link Styling***********************/
