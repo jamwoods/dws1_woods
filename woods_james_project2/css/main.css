@@ -72,6 +72,11 @@ ul{
 #ig{
 text-align: center;
    }
+   
+#images{   
+    color: #fdfdfd;
+
+
 a:link    {
     color: #fdfdfd;
 }
@@ -85,7 +90,7 @@ a:hover {
    }
    
 a:active {
-   color:#01d106;
+   color:#0d6302;
    }
 
 img { 
