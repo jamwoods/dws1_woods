@@ -115,7 +115,7 @@ img:hover {
 	float:right;
 	margin:.4%;
 	width: 31%;
-	background-image:url ("../images/gatsby.jpg");
+	background-image: url("../images/gatsby.gif");
 	background-repeat: repeat-x;
 	background-repeat: repeat-y;
 }	
