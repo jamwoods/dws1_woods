@@ -67,8 +67,8 @@ ul{
     line-height:110%;
 }
 
-#h3{
-background: url("../images/car_icon.gif");
+#EH{
+background-image: url("../images/car_icon.png");
 background-repeat: no-repeat;
 background-position: left top;
 }
