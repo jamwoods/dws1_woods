@@ -67,7 +67,7 @@ ul{
     line-height:110%;
 }
 
-#eh{
+.container{
 background-image: url("car_icon.png");
 background-repeat: no-repeat;
 background-position: left top;
