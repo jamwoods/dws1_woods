@@ -72,7 +72,7 @@ background-image: url("../images/car_icon.png");
 background-repeat: no-repeat;
 height: 100px;
 padding: 8px 0 0 60 px
-background-position: left top;
+background-position: center;
 }
 
 #L{
@@ -80,7 +80,7 @@ background-image: url("../images/engine_icon.png");
 background-repeat: no-repeat;
 height: 100px;
 padding: 8px 0 0 60 px
-background-position: left top;
+background-position: center;
 }
 
 #EH{
