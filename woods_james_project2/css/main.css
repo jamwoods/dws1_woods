@@ -67,17 +67,17 @@ ul{
 }
 
 #EH{
-background: #e3dfdf url("../images/car_icon.png") no-repeat center;
+background: #e3dfdf url("../images/car_icon.png") no-repeat;
 height:40px;
 }
 
 #L{
-background: #e3dfdf url("../images/engine_icon.png") no-repeat center;
+background: #e3dfdf url("../images/engine_icon.png") no-repeat;
 height: 40px;
 }
 
 #S{
-background: #e3dfdf url("../images/chair_icon.png") no-repeat center;
+background: #e3dfdf url("../images/chair_icon.png") no-repeat;
 height: 40px;
 }
 /***********************Link Styling***********************/
