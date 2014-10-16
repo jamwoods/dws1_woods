@@ -113,9 +113,11 @@ img:hover {
 #images{
 	border-radius: 25px;
 	float:right;
-	margin:5px;
-	background-color: #fdefcd;
+	margin:.4%;
 	width: 31%;
+	background-image:url ("../images/gatsby.jpg");
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
 }	
 
 .clear{
@@ -125,7 +127,7 @@ clear: right;
 #corecontent{
 	border-radius: 25px;
 	float:left;
-	margin:5px;
+	margin:.4%;
 	width: 66%;
 }	
 
@@ -133,3 +135,4 @@ clear: right;
 .clear{
 clear: left;
 }
+
