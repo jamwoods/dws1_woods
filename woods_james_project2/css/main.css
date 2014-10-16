@@ -68,11 +68,8 @@ ul{
 }
 
 #EH{
-background-image: url("../images/car_icon.png");
-background-repeat: no-repeat;
+background: #ffffff url("../images/car_icon.png") no-repeat center;
 height:60px;
-background-position: center;
-padding: 30 30;
 }
 
 #L{
