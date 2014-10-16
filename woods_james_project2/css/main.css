@@ -67,6 +67,9 @@ ul{
     line-height:110%;
 }
 
+#eh{
+background-image: url("car_icon.png");
+}
 /***********************Link Styling***********************/
   
 #ig{
@@ -109,8 +112,7 @@ img:hover {
 	float:right;
 	margin:.4%;
 	width: 31%;
-	background: url("../images/steel.gif") repeat;
-	
+	background: url("../images/steel.gif") repeat;	
 }
 
 
