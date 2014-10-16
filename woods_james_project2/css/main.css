@@ -36,7 +36,7 @@ h3{
    background-color: #e9e8e9;   
    color: #f99903;
    width: 8em;
-   text-align: center;
+   text-align: 50% 50%;
 
 }
 
@@ -70,21 +70,21 @@ ul{
 #EH{
 background-image: url("../images/car_icon.png");
 background-repeat: no-repeat;
-height:.05em;
+height:60px;
 background-position: center;
 }
 
 #L{
 background-image: url("../images/engine_icon.png");
 background-repeat: no-repeat;
-height: .05em;
+height: 60px;
 background-position: 50% 50%;
 }
 
 #S{
 background-image: url("../images/chair_icon.png");
 background-repeat: no-repeat;
-height: .05em;
+height: 60px;
 background-position: 50% 50%;
 }
 /***********************Link Styling***********************/
