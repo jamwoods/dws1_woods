@@ -68,6 +68,9 @@ ul{
 
 /***********************Link Styling***********************/
   
+#images{
+text-align: center;
+   }
 a:link    {
     color: #0c11f8;
 }
