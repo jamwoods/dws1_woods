@@ -72,6 +72,7 @@ background-image: url("../images/car_icon.png");
 background-repeat: no-repeat;
 height:60px;
 background-position: center;
+opacity: 0.5;
 }
 
 #L{
