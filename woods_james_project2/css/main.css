@@ -108,6 +108,7 @@ img:hover {
 	margin:.4%;
 	width: 31%;
 	background-image: url("../images/steel.gif");
+	background-repeat: repeat-y;
 	background-repeat: repeat-x;
 	
 }	
