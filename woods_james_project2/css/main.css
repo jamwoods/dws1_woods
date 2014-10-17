@@ -71,7 +71,7 @@ ul{
   
   li{
    Font-weight: bold;
-   font-size: 1.125em;
+   font-size: 1.0em;
 }
   
   .container {
@@ -85,7 +85,7 @@ ul{
     box-shadow: 10px 10px 5px #888888;
     line-height:110%;
 }
-*******************Link Styling***********************/
+/*******************Link Styling***********************/
   
 #ig{
 text-align: center;
