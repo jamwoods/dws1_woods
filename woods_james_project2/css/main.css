@@ -1,8 +1,9 @@
 
 /***********************Global Styling***********************/
-#total{
-background-color: #e7e6e2;
-}
+body{
+
+width: 90%
+margin: 0 auto;
 
  #main{
   width: 1100px;
@@ -18,7 +19,7 @@ h1{
    font-style: italic;
    font-weight: bold;
    font-size: 2.5em;
-   border-width: 4px;
+   border-width: .36%;
    border-radius: 25px;
    font-family: Poiret One,Times New Roman,Georgia, serif;
    text-shadow: 2px 2px #000000;
@@ -64,7 +65,7 @@ h3{
 /***********************Content***********************/
 
 ul{
-   border-width: 4px;
+   border-width: .36%;
    border-radius: 25px;
    background-color: #fdc54c;
    width: 10em;
@@ -73,7 +74,7 @@ ul{
   }	
   
   li{
-   Font-weight: bold;
+   font-weight: bold;
    font-size: 1.0em;
 }
   
