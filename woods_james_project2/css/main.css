@@ -130,6 +130,7 @@ clear: left;
  
 #images{
     color:#fcb52b;
+    border-radius: 2%;
 	float:right;
 	margin:.1%;
 	width: 30%;
