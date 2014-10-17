@@ -123,7 +123,6 @@ img:hover {
 	float:left;
 	margin:.2%;
 	width: 66%;
-	padding: .2%
 }	
 .clear{
 clear: left;
@@ -134,7 +133,6 @@ clear: left;
 	border-radius: 25px;
 	float:right;
 	margin:.2%;
-	padding: .2%
 	width: 30%;
 	background: url("../images/steel.gif") repeat;	
 }
