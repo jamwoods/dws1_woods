@@ -60,7 +60,7 @@ h3{
 
 ul{
    border-width: .4%;
-   border-radius: 2%;
+   border-radius: 3%;
    background-color: #fdc54c;
    width: 10em;
    box-shadow: 1.5% 1.5% 1% #888888;
@@ -79,7 +79,7 @@ ul{
     background:linear-gradient(#fef6e0, #fdefc9); 
     padding: .05% 2%;
     border: 1px solid;
-    border-radius: 2%;
+    border-radius: 3%;
     box-shadow: 1% 1% .5% #888888;
     line-height:110%;
 }
