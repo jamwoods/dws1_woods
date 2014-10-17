@@ -125,7 +125,7 @@ img:hover {
 	border-radius: 25px;
 	float:left;
 	margin:.2%;
-	width: 60%;
+	width: 50%;
 }	
 .clear{
 clear: left;
@@ -136,7 +136,7 @@ clear: left;
 	border-radius: 25px;
 	float:right;
 	margin:.2%;
-	width: 30%;
+	width: 20%;
 	background: url("../images/steel.gif") repeat;	
 }
 
