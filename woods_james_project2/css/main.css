@@ -81,6 +81,7 @@ padding: 30px 20px 30px 30px;
 
 #S{
 background: #e3dfdf url("../images/chair_icon.png") no-repeat;
+background:linear-gradient(#e3dfdf, #c6c5c5);
 height: 40px;
 padding: 30px 20px 30px 30px;
 }
