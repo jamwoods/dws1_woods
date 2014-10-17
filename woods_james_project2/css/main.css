@@ -79,7 +79,7 @@ ul{
     background:linear-gradient(#fef6e0, #fdefc9); 
     padding: .05% 2%;
     border: 1px solid;
-    border-radius: 10%;
+    border-radius: 5%;
     box-shadow: 1% 1% .5% #888888;
     line-height:110%;
 }
