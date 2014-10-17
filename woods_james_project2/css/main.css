@@ -62,7 +62,7 @@ h3{
 /***********************Content***********************/
 
 ul{
-   border-width: .36%;
+   border-width: .4%;
    border-radius: 25px;
    background-color: #fdc54c;
    width: 10em;
@@ -125,7 +125,7 @@ img:hover {
 	border-radius: 25px;
 	float:left;
 	margin:.2%;
-	width: 60%;
+	width: 66%;
 }	
 .clear{
 clear: left;
