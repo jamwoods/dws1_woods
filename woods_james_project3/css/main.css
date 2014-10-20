@@ -63,9 +63,8 @@ ul{
    border-radius: 5%;
    background-color: #fdc54c;
    width: 10em;
-   box-shadow: 1.5% 1.5% 1% #888888;
+   box-shadow: 10px 10px 5px #888888;
    list-style:outside circle;
-	
   }	
   
   li{
