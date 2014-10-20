@@ -65,7 +65,7 @@ ul{
    width: 10em;
    box-shadow: 1.5% 1.5% 1% #888888;
    list-style:outside circle;
-   display: inline-block		
+   display: inline-block;		
   }	
   
   li{
