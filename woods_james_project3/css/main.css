@@ -65,12 +65,13 @@ ul{
    width: 10em;
    box-shadow: 1.5% 1.5% 1% #888888;
    list-style:outside circle;
-   display: inline-block;		
+	
   }	
   
   li{
    font-weight: bold;
    font-size: 1.0em;
+      display: inline-block;	
    
 }
   
