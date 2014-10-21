@@ -130,10 +130,9 @@ img:hover {
 	float:left;
 	margin:.1%;
 	width: 67%;
-}	
-.clear{
-clear: left;
 }
+
+<div style="clear:left;"></div>	
  
 #images{
     color:#fcb52b;
@@ -144,8 +143,6 @@ clear: left;
 	background: url("../images/steel.gif") repeat;	
 }
 
-.clear{
-clear: right;
-}
+<div style="clear:right;"></div>
 
 
