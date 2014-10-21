@@ -131,7 +131,10 @@ img:hover {
 	margin:.1%;
 	width: 67%;
 }
-<div style="clear:both"></div>	
+
+p.clear {
+    clear: left;
+}
  
 #images{
     color:#fcb52b;
@@ -142,6 +145,8 @@ img:hover {
 	background: url("../images/steel.gif") repeat;	
 }
 
-<div style="clear:right"></div>
+p.clear {
+    clear: right;
+}
 
 
