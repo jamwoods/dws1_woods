@@ -65,7 +65,7 @@ h3{
 /***********************Content***********************/
 
 ul{
-   border-width: 1px;
+   border-width: 1%;
    border-radius: 5%;
    background-color: #fdc54c;
    width: 9%;
@@ -120,7 +120,7 @@ img:hover {
 } 
     .image-link{ 
 	border: 2px solid;
-	width:240px;
+	width:25%;
 	height:155px;
 	display: block;
 }
