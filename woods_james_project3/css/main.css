@@ -13,7 +13,7 @@ h1{
    font-style: italic;
    font-weight: bold;
    font-size: 2.5em;
-   border-width: 1px;
+   border-width: 1%;
    border-radius: 5%;
    font-family: Poiret One,Times New Roman,Georgia, serif;
    text-shadow: 2px 2px #000000;
@@ -68,7 +68,7 @@ ul{
    border-width: 1px;
    border-radius: 5%;
    background-color: #fdc54c;
-   width: 8%;
+   width: 9%;
    box-shadow: 10px 10px 5px #888888;
    list-style:outside circle;
   }	
