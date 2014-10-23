@@ -151,6 +151,7 @@ p.clear {
 #table{
 	font-size: 1.0em;
     color:#fcb52b;
+    font-family: Georgia,Times New Roman, serif
     text-transform: uppercase;
     border: 1.5px solid;
     border-color:#000000;
@@ -165,9 +166,11 @@ p.clear {
     text-align: left;
 }
 tr:hover {
-		background-color: #c3e6e5;}
+		background-color: #c3e6e5;
 }
-
+tr.even {
+				background-color: #efefef;
+}
 
 p.clear {
     clear: right;
