@@ -153,7 +153,6 @@ p.clear {
     color:#fcb52b;
     text-transform: uppercase;
     font-family: Georgia,Times New Roman, serif
-    
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
@@ -164,7 +163,17 @@ p.clear {
 	margin:.1%;
 	width: 29%;
     text-align: left;
+
+td {
+	padding: 7px 10px 10px 10px;}
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 90%;
+	border-bottom: 2px solid #111111;
+	border-top: 1px solid #999;
+	text-align: center;}
 }
+
 tr:hover {
 		background-color: #c3e6e5;
 }
