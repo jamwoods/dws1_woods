@@ -158,7 +158,7 @@ p.clear {
     border-color:#000000;
     border-radius: 5%;
     background:linear-gradient(#fef6e0, #fdefc9); 
-    border-spacing: 5px 5px;
+    border-collapse: 5px 5px;
     padding: 5px;
 	float:right;
 	margin:.1%;
