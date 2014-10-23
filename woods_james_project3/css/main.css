@@ -172,7 +172,7 @@ tr.even {
 tr.odd {
 	background-color: #9a9a99;
 }
-.odd:hover {
+.odd .even:hover {
 	background-color: #c3e6e5;
 }
 
