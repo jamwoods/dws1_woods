@@ -157,17 +157,18 @@ p.clear {
     border-radius: 5%;
     border-collapse: separate;
     border-spacing: 5px 10px;
-    padding: 2px;
+    padding: 4px;
 	float:right;
 	margin:.1%;
 	width: 29%;
 	background-color: #a4a4a3;
     text-align: left;
+    
+tr:hover {
+		background-color: #c3e6e5;}
 }
 
-table:hover { 
-  border: 3px #010100; 
-} 
+
 p.clear {
     clear: right;
 }
