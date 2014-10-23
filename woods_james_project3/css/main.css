@@ -163,22 +163,7 @@ p.clear {
 	margin:.1%;
 	width: 29%;
 
-th {
-	padding: 5px 8px 8px 8px;}
-	text-transform: uppercase;
-	letter-spacing: 0.1em;
-	border-bottom: 1px solid #111111;
-	border-top: 1px solid #999;
-	text-align: left;}
-}
-td {
-	padding: 5px 8px 8px 8px;}
-	text-transform: uppercase;
-	letter-spacing: 0.1em;
-	border-bottom: 1px solid #111111;
-	border-top: 1px solid #999;
-	text-align: center;}
-}
+
 
 tr:hover {
 		background-color: #c3e6e5;
