@@ -168,7 +168,7 @@ p.clear {
 tr:hover {
 		background-color: #c3e6e5;
 }
-tr.even {
+tr:even {
 		background-color: #b6b6b5;
 }
 
