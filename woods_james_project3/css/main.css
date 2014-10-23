@@ -149,14 +149,13 @@ p.clear {
     clear: right;
 }
 #table{
-	font-size: .9em;
+	font-size: 1.0em;
     color:#000000;
     text-transform: uppercase;
     font-family: Georgia,Times New Roman, serif;
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
-    
     background:linear-gradient(#fef6e0, #fdefc9); 
     border-spacing: 5px 5px;
     padding: 5px;
