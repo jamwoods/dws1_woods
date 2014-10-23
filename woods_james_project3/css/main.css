@@ -153,6 +153,7 @@ p.clear {
     color:#000000;
     text-transform: uppercase;
     font-family: Georgia,Times New Roman, serif;
+    letter-spacing: 0.1em;
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
