@@ -166,9 +166,12 @@ p.clear {
 }
 
 tr.even {
-	background-color: #b9b9b9;
+	background-color: #e8e8e6;
 }
 
+tr.odd {
+	background-color: #9a9a99;
+}
 tr:hover {
 	background-color: #c3e6e5;
 }
