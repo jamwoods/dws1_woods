@@ -165,7 +165,7 @@ p.clear {
     text-align: left;
 }
 
-th, td {
+th{
     border: 1px solid black;
 }
 table {
