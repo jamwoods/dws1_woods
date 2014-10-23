@@ -151,8 +151,9 @@ p.clear {
 #table{
 	font-size: 1.0em;
     color:#fcb52b;
-    font-family: Georgia,Times New Roman, serif
     text-transform: uppercase;
+    font-family: Georgia,Times New Roman, serif
+    
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
