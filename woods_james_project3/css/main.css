@@ -155,7 +155,7 @@ p.clear {
     border: 1.5px solid;
     border-color:#000000;
     border-collapse: separate;
-    border-spacing: 10px 50px;
+    border-spacing: 1px 5px;
     padding: 1px
 	float:right;
 	margin:.1%;
