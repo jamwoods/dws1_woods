@@ -154,7 +154,6 @@ p.clear {
     text-transform: uppercase;
     font-family: Georgia,Times New Roman, serif;
     letter-spacing: 0.1em;
-    border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
     background:linear-gradient(#fef6e0, #fdefc9); 
@@ -166,6 +165,9 @@ p.clear {
     text-align: left;
 }
 
+table, td, th {
+    border: 1px solid black;
+}
 table {
     border-collapse: collapse;
 }
