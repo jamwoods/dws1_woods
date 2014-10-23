@@ -154,6 +154,7 @@ p.clear {
     text-transform: uppercase;
     font-family: Georgia,Times New Roman, serif;
     letter-spacing: 0.1em;
+    border: 1px solid black;
     border-color:#000000;
     border-radius: 5%;
     background:linear-gradient(#fef6e0, #fdefc9); 
