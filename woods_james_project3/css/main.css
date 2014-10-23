@@ -149,7 +149,7 @@ p.clear {
     clear: right;
 }
 #table{
-	font-size: 1.8em;
+	font-size: 1.0em;
     color:#fcb52b;
     text-transform: uppercase
     border: 1.5px solid;
@@ -161,7 +161,7 @@ p.clear {
 	margin:.1%;
 	width: 30%;
 	background-color: #f4f3ef;
-    text-align: left;
+    /**text-align: left;**/
 }
 
 table:hover { 
