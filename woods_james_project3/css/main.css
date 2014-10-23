@@ -156,7 +156,7 @@ p.clear {
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
-    border-collapse: separate;
+    
     border-spacing: 5px 5px;
     padding: 10px;
 	float:right;
