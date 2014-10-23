@@ -152,7 +152,7 @@ p.clear {
 	font-size: 1.0em;
     color:#fcb52b;
     text-transform: uppercase;
-    font-family: Georgia,Times New Roman, serif
+    font-family: Georgia,Times New Roman, serif;
     border: 1.5px solid;
     border-color:#000000;
     border-radius: 5%;
