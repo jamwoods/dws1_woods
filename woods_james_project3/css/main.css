@@ -164,18 +164,18 @@ p.clear {
 	width: 29%;
 
 th {
-	padding: 7px 10px 10px 10px;}
+	padding: 5px 8px 8px 8px;}
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	border-bottom: 2px solid #111111;
+	border-bottom: 1px solid #111111;
 	border-top: 1px solid #999;
 	text-align: left;}
 }
 td {
-	padding: 7px 10px 10px 10px;}
+	padding: 5px 8px 8px 8px;}
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	border-bottom: 2px solid #111111;
+	border-bottom: 1px solid #111111;
 	border-top: 1px solid #999;
 	text-align: center;}
 }
