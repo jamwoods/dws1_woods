@@ -166,6 +166,9 @@ p.clear {
     text-align: left;
 }
 
+table {
+    border-collapse: collapse;
+}
 tr.even {
 	background-color: #e8e8e6;
 }
