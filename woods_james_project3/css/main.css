@@ -162,7 +162,7 @@ p.clear {
 	margin:.1%;
 	width: 29%;
 	background-color: #a4a4a3;
-    /**text-align: left;**/
+    text-align: left;
 }
 
 table:hover { 
