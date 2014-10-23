@@ -178,6 +178,13 @@ tr.odd {
 .even:hover {
 	background-color: #c3e6e5;
 }
+.hp{
+text-align: center;
+}
+
+.qtr{
+text-align: center;
+}
 p.clear {
     clear: right;
 }
