@@ -13,7 +13,7 @@ h1{
    font-style: italic;
    font-weight: bold;
    font-size: 2.5em;
-   border-width: 1%;
+   border-width: 1px;
    border-radius: 5%;
    font-family: Poiret One,Times New Roman,Georgia, serif;
    text-shadow: 2px 2px #000000;
@@ -65,7 +65,7 @@ h3{
 /***********************Content***********************/
 
 ul{
-   border-width: 1%;
+   border-width: 1px;
    border-radius: 5%;
    background-color: #fdc54c;
    width: 9%;
@@ -208,8 +208,6 @@ p.clear {
     text-align: left;
 }
 
-#heading{
-font-size: 1.5em;}
 
 input:hover{
 	border: 1px solid; 
