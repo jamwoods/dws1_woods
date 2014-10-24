@@ -208,6 +208,9 @@ p.clear {
     text-align: left;
 }
 
+#legend{
+font-size: 1.0em;}
+
 input:hover{
 	border: 1px solid; 
 	border-color: #030eec;
