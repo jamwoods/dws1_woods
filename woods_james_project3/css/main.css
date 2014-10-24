@@ -243,3 +243,15 @@ input:focus {
 textarea:focus { 
     background-color: #0cedd5;
 }
+
+textarea:hover { 
+   	border: 1px solid; 
+	border-color: #030eec;
+	background: #ab5901;
+	font-size: 120%;
+	color: #5a5854;
+	background-color: #fef6e0;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+	padding: 5px 10px 5px 10px;
+}
