@@ -208,7 +208,8 @@ p.clear {
     text-align: left;
 }
 
-input {
+
+				input.field{
 				font-size: 120%;
 				color: #5a5854;
 				background-color: #f2f2f2;
