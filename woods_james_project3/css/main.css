@@ -231,7 +231,7 @@ input#submit:hover {
 	color: #ab5901;
 	border: 1px solid #a4a4a4;
 	border-top: 2px solid #b2b2b2;
-	background-color: #a0dbc4;
+	background-color: #0115ab;
 	background: -webkit-gradient(linear, left top, left bottom, from(#a8cfce), to(#beeae9));
 	background: -moz-linear-gradient(top, #a8cfce, #beeae9);
 	background: -o-linear-gradient(top, #a8cfce, #beeae9);
