@@ -237,3 +237,6 @@ input#submit:hover {
 	background: -moz-linear-gradient(top, #a8cfce, #beeae9);
 	background: -o-linear-gradient(top, #a8cfce, #beeae9);
 	background: -ms-linear-gradient(top, #a8cfce, #beeae9);}
+input:focus { 
+    background-color: yellow;
+}
