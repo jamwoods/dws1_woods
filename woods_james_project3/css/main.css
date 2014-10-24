@@ -207,3 +207,8 @@ p.clear {
 	width: 29%;
     text-align: left;
 }
+
+}
+.submit:hover {
+	background-color: #c3e6e5;
+}
