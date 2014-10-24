@@ -209,7 +209,7 @@ p.clear {
 }
 
 input:hover { 
-    border: 1px; 
+    border: 1px solid; 
     border-color: #030eec;
     background:linear-gradient(#f7f578, #f5f333); ;
 }
