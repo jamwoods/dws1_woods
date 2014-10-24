@@ -208,7 +208,6 @@ p.clear {
     text-align: left;
 }
 
-}
-.submit:hover {
-	background-color: #c3e6e5;
+input:focus { 
+    background-color: yellow;
 }
