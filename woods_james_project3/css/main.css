@@ -194,7 +194,11 @@ p.clear {
 }
 
 #form{
-  border-color:#000000;
+    font-size: .8em;
+    color:#000000;
+    font-family: Georgia,Times New Roman, serif;
+    border: 1px solid black;
+    border-color:#000000;
     border-radius: 5%;
     background:linear-gradient(#fef6e0, #fdefc9); 
     padding: 5px;
