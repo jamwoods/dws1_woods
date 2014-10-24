@@ -237,12 +237,3 @@ p.clear {
 				background: -moz-linear-gradient(top, #a8cfce, #beeae9);
 				background: -o-linear-gradient(top, #a8cfce, #beeae9);
 				background: -ms-linear-gradient(top, #a8cfce, #beeae9);}
-/***input:hover { 
-    border: 1px solid; 
-    border-color: #030eec;
-    background: #3f66f7;
-}***//
-
-.submit{
-
-}
