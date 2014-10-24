@@ -208,7 +208,7 @@ p.clear {
     text-align: left;
 }
 
-input:focus { 
+input:hover { 
     border: 1px solid black 
     background-color: yellow;
 }
