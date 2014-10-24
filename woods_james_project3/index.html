@@ -182,10 +182,13 @@
 					</select>	
 				</p>
 				<p>
-					How would you best describe your current car project?<br />
-					 <input type="radio" name="class" value="Ground Up" />Ground Up						 
-					 <input type="radio" name="class" value="Just One More Thing" />Just One More Thing
-					 <input type="radio" name="class" value="Diapers and Polish" />Diapers and Polish						 							   
+					 <p>How would you best describe your current car project?</p>
+					 <label for="gu">Ground Up</label>
+					 <input type="radio" name="class" id="gu" value="Ground Up">Ground Up
+					 <label for="jomt">Just One More Thing</label>						 
+					 <input type="radio" name="class" id="jomt" value="Just One More Thing">Just One More Thing
+					 <label for="dp">Diapers and Polish</label>
+					 <input type="radio" name="class" id="dp" value="Diapers and Polish">Diapers and Polish						 							   
 				</p>
 				<p>
 					<label for="comments">Comments:</label><br />
@@ -193,7 +196,7 @@
 				</p>	
 			    <p>Want to stay current on the latest parts releases? Create a login</p>
 				
-				     <label>Name: <input type="text" name="name" size="30" maxlength="100" placeholder="Your Name"required></label><br />
+				     <label>Name: <input type="text" name="name" size="30" maxlength="100" placeholder="Your Name" required></label><br />
 				     <label>Email: <input type="email" name="email" size="30" maxlength="100" placeholder="JohnDoe@fastlane.com" required></label><br />			 	 		         
 			         <input type="submit" id="submit" value="Subscribe" />
 				<label><input type="checkbox" name="subscribe" checked="checked" /> Sign me up for email updates</label><br />																		 								 
