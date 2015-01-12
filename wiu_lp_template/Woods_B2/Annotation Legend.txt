@@ -1,0 +1,74 @@
+1. Streamlined Branding [Artboard 1]
+Retain the use of your orgs design elements on the mobile site or app but keep them small on the screen and fast to load.
+Functionality/Interactivity: Branding
+Result of Interactivity: Reinforce the brand without compromising mobile app performance. Less valuable realestate is taken up.
+
+2. TItled sections [Artboard 2]
+Define seperate sections of content using visually apparent titles
+Functionality/Interactivity: Descriptive titles that reveal the prurpose of the step on every page.
+Result of Interactivity: Along with the sequence maps this helps user postion themselves within the process and understand what they are being asked to do
+
+3. Vertical Stack [Artboard 2]
+Order the mobile page’s content in a vertical column with little or no use of side by side elements.
+Functionality/Interactivity: Group related content together on the same page even if it results in a vertical scroll
+Result of Interactivity: Reduce time to complete process or view content that would normally result in download times if represented in a multiple page fashion.
+
+4. Good Defaults [Artboard 3]
+Wherever possible prefill form fields with best guess values
+Functionality/Interactivity: Pre-populate fields with data derived from previous user inputs
+Result of Interactivity: Less work for the user
+
+5. Right/Left Alignment [Artboard 4]
+Place interactive element in close proximity to descriptive text
+Functionality/Interactivity: Place interactive element in close proximity to descriptive text
+Result of Interactivity: User can easily and correctly make a choice or associate a peice of information with it descriptor.
+
+6. Wizard with Sequence Map[Artboard 1]
+Show a map of all pages in order
+Functionality/Interactivity: prominent breadcrumb displayed on each page
+Result of Interactivity: User knows where they are at in the process
+
+7. Input Prompts [Artboard 2]
+Prefilling a text field or drop down with representative values
+Functionality/Interactivity: Guide user on correct values in input field
+Result of Interactivity: User is able to move to next field without trouble.
+
+8. Dropdown Chooser [Artboard 2]
+Menu options for value selections
+Functionality/Interactivity: Allow users to select values from a set.
+Result of Interactivity: User chooses value
+
+9. Structered Formatting [Not used. Because this is an international app forgiving format seemed appropriate]
+Using a set of text fields for a particular data collection point because of a formal format. 
+Functionality/Interactivity: Users are guided through entries in an input field
+Result of Interactivity: Reduce user input errors
+
+10. Responsive Discloser [Artboard 4]
+Exposing more of the UI as the user progresses through a process.
+Functionality/Interactivity: User only needs to be exposed to features that are relevant based on previous selections
+Result of Interactivity: Users aren’t distracted by irrelevent or ill timed content.
+
+11. Prominent Done Buttons [Artboard 2]
+Insure that calls to action are big and well labeled, obvious and hard to miss.
+Functionality/Interactivity: Provides closure to a step or process
+Result of Interactivity: Insure folks do not fall out of funnels.
+
+12. Same Page Error Message [Artboard 4]
+Place form error message directly on the page with the form itself.
+Functionality/Interactivity: Errors message near action that is stalled and on top of the page .
+Result of Interactivity: User correctly populates form values
+
+13. Design Pattern [Artboard#]
+Design Pattern Definition
+Functionality/Interactivity: Details
+Result of Interactivity: Details
+
+14. Design Pattern [Artboard#]
+Design Pattern Definition
+Functionality/Interactivity: Details
+Result of Interactivity: Details
+
+15. Design Pattern [Artboard#]
+Design Pattern Definition
+Functionality/Interactivity: Details
+Result of Interactivity: Details
